@@ -1,0 +1,11 @@
+Tar fájl létrehozása mc-vel:
+
+
+mkdir obinger
+cd obinger
+touch fű
+mkdir csóri
+sudo mc
+obinger
+f2-t (menü) lenyomjuk---3as pont enter
+könyvtáron kívül lehet megtalálni
